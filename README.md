@@ -9,3 +9,13 @@ HTML5 – Structure of the website
 CSS3 – Styling, animations, responsiveness
 
 JavaScript – Interactivity and dynamic elements
+
+# Customization Tips
+
+Add personal logo, details, images or initials in the portfolio.
+
+Use a consistent color palette and typography.
+
+Keep project descriptions short, clear, and outcome-focused.
+
+Include GitHub/project links for credibility.
